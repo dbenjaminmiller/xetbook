@@ -1,0 +1,28 @@
+StartChar: seven
+Encoding: 55 55 44
+Width: 489
+Flags: MW
+HStem: 546 78
+LayerCount: 2
+Fore
+SplineSet
+423 602 m 2
+ 421 587 l 1
+ 187 -3 l 2
+ 184 -11 175 -20 162 -18 c 2
+ 129 -13 l 2
+ 117 -11 114 -1 119 10 c 2
+ 341 526 l 2
+ 344 533 336 547 321 546 c 0
+ 224 542 165 544 130 544 c 0
+ 86 545 82 544 77 539 c 0
+ 72 535 68 526 63 497 c 0
+ 62 493 56 489 47 489 c 0
+ 37 489 33 495 33 501 c 2
+ 38 592 l 2
+ 39 605 60 626 74 624 c 0
+ 158 621 267 620 397 624 c 0
+ 411 624 425 614 423 602 c 2
+EndSplineSet
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 0-1" seven.onum
+EndChar

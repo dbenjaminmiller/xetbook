@@ -1,0 +1,19 @@
+StartChar: brokenbar
+Encoding: 166 166 19
+Width: 534
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+236 473 m 1
+ 236 860 l 1
+ 301 860 l 1
+ 301 473 l 1
+ 236 473 l 1
+236 -22 m 1
+ 236 364 l 1
+ 301 364 l 1
+ 301 -22 l 1
+ 236 -22 l 1
+EndSplineSet
+EndChar

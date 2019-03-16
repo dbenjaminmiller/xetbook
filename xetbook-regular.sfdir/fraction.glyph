@@ -1,0 +1,15 @@
+StartChar: fraction
+Encoding: 8260 8260 192
+Width: 242
+Flags: MW
+HStem: -204 21G<-56 -10 -56 -56> 671 20G<296 342 342 342>
+LayerCount: 2
+Fore
+SplineSet
+342 691 m 1
+ -10 -204 l 1
+ -56 -204 l 1
+ 296 691 l 1
+ 342 691 l 1
+EndSplineSet
+EndChar

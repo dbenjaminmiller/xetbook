@@ -1,0 +1,14 @@
+StartChar: dotaccent
+Encoding: 729 729 223
+Width: 349
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+175 476 m 0
+ 142 476 115 504 115 537 c 0
+ 115 569 142 597 175 597 c 0
+ 208 597 235 570 235 537 c 0
+ 235 504 208 476 175 476 c 0
+EndSplineSet
+EndChar
