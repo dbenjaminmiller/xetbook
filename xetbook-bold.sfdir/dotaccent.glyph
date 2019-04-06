@@ -2,13 +2,16 @@ StartChar: dotaccent
 Encoding: 729 729 223
 Width: 349
 Flags: W
+HStem: 476 121<157 193>
+VStem: 110 130<520.5 553>
 LayerCount: 2
 Fore
 SplineSet
 175 476 m 0
- 142 476 115 504 115 537 c 0
- 115 569 142 597 175 597 c 0
- 208 597 235 570 235 537 c 0
- 235 504 208 476 175 476 c 0
+ 139 476 110 504 110 537 c 0
+ 110 569 139 597 175 597 c 0
+ 211 597 240 570 240 537 c 0
+ 240 504 211 476 175 476 c 0
 EndSplineSet
+Validated: 1
 EndChar

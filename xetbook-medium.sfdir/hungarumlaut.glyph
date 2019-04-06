@@ -1,0 +1,25 @@
+StartChar: hungarumlaut
+Encoding: 733 733 226
+Width: 349
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+225 478 m 2
+ 223 474 213 472 205 473 c 0
+ 196 473 188 479 188 482 c 2
+ 220 651 l 2
+ 223 658 228 662 235 662 c 2
+ 324 662 l 1
+ 336 658 334 651 331 645 c 2
+ 225 478 l 2
+71 477 m 1
+ 61 470 36 477 36 482 c 2
+ 68 649 l 2
+ 70 661 79 662 86 662 c 2
+ 171 662 l 2
+ 180 659 186 655 180 645 c 2
+ 71 477 l 1
+EndSplineSet
+Validated: 33
+EndChar

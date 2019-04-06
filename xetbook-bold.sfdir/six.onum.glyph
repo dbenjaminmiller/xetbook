@@ -1,7 +1,9 @@
 StartChar: six.onum
-Encoding: 65542 -1 241
+Encoding: 65542 -1 240
 Width: 503
-Flags: HW
+Flags: W
+HStem: -14 39<195.85 307.006> 361 38<211.959 300.96> 581 33<407.975 444.068>
+VStem: 45 98<116.739 316.071> 357 96<100.087 293.774>
 LayerCount: 2
 Fore
 SplineSet
@@ -22,4 +24,5 @@ SplineSet
  344 78 357 120 357 183 c 0
  357 300 313 361 242 361 c 0
 EndSplineSet
+Validated: 33
 EndChar

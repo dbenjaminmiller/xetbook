@@ -1,7 +1,7 @@
 StartChar: two.onum
-Encoding: 65538 -1 237
+Encoding: 65538 -1 236
 Width: 481
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -25,4 +25,5 @@ SplineSet
  414 173 443 166 439 150 c 2
  406 14 l 2
 EndSplineSet
+Validated: 33
 EndChar

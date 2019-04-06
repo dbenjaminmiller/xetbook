@@ -2,15 +2,18 @@ StartChar: logicalnot
 Encoding: 172 172 172
 Width: 698
 Flags: W
+HStem: 182 21G<549 549 549 635> 414 83<66 549 66 635>
+VStem: 549 86<182 414 414 414>
 LayerCount: 2
 Fore
 SplineSet
-554 182 m 1
- 554 422 l 1
- 71 422 l 1
- 71 497 l 1
- 630 497 l 1
- 630 182 l 1
- 554 182 l 1
+549 182 m 1
+ 549 414 l 1
+ 66 414 l 1
+ 66 497 l 1
+ 635 497 l 1
+ 635 182 l 1
+ 549 182 l 1
 EndSplineSet
+Validated: 1
 EndChar

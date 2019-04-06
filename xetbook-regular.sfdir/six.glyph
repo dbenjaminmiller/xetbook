@@ -26,5 +26,6 @@ SplineSet
  137 91 178 13 253 13 c 0
  318 13 352 73 352 179 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 0-1" six.onum
 EndChar

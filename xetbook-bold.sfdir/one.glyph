@@ -1,5 +1,5 @@
 StartChar: one
-Encoding: 49 49 230
+Encoding: 49 49 229
 Width: 489
 Flags: MW
 HStem: -3 61 620 20G<259 274 274 286>
@@ -33,5 +33,6 @@ SplineSet
  391 27 391 25 391 22 c 0
  391 5 380 -5 362 -4 c 0
 EndSplineSet
+Validated: 4194337
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 1-1" one.onum
 EndChar

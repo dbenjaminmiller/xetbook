@@ -1,7 +1,9 @@
 StartChar: five.onum
-Encoding: 65541 -1 240
+Encoding: 65541 -1 239
 Width: 437
-Flags: HW
+Flags: W
+HStem: -177 64<74.7019 204.307>
+VStem: 276 82<-40.0301 88.549>
 LayerCount: 2
 Fore
 SplineSet
@@ -28,4 +30,5 @@ SplineSet
  363 439 372 435 367 418 c 0
  364 404 339 370 334 365 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,7 +1,7 @@
 StartChar: eight.onum
-Encoding: 65544 -1 243
+Encoding: 65544 -1 242
 Width: 464
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -30,4 +30,5 @@ SplineSet
  334 171 308 207 225 267 c 0
  220 271 212 275 206 272 c 0
 EndSplineSet
+Validated: 1
 EndChar

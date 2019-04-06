@@ -30,5 +30,6 @@ SplineSet
  319 396 323 388 329 387 c 0
  399 372 443 303 443 220 c 0xa8
 EndSplineSet
+Validated: 1
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 0-1" three.onum
 EndChar

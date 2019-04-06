@@ -50,5 +50,6 @@ SplineSet
  463 41 465 33 500 28 c 2
  521 25 l 2
 EndSplineSet
+Validated: 33
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" f i
 EndChar
