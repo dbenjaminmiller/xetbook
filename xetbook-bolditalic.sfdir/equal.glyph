@@ -1,0 +1,37 @@
+StartChar: equal
+Encoding: 61 61 50
+Width: 703
+Flags: W
+HStem: 182 71<70 633> 412 71<70 633>
+LayerCount: 2
+Fore
+SplineSet
+633 412 m 1
+ 627 412 l 1
+ 76 412 l 1
+ 70 412 l 1
+ 70 418 l 1
+ 70 477 l 1
+ 70 483 l 1
+ 76 483 l 1
+ 627 483 l 1
+ 633 483 l 1
+ 633 477 l 1
+ 633 418 l 1
+ 633 412 l 1
+633 182 m 1
+ 627 182 l 1
+ 76 182 l 1
+ 70 182 l 1
+ 70 188 l 1
+ 70 247 l 1
+ 70 253 l 1
+ 76 253 l 1
+ 627 253 l 1
+ 633 253 l 1
+ 633 247 l 1
+ 633 188 l 1
+ 633 182 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,24 @@
+StartChar: minus
+Encoding: 8722 8722 20
+Width: 703
+Flags: W
+HStem: 300 69<69 633>
+LayerCount: 2
+Fore
+SplineSet
+633 300 m 1
+ 627 300 l 1
+ 75 300 l 1
+ 69 300 l 1
+ 69 306 l 1
+ 69 363 l 1
+ 69 369 l 1
+ 75 369 l 1
+ 627 369 l 1
+ 633 369 l 1
+ 633 363 l 1
+ 633 306 l 1
+ 633 300 l 1
+EndSplineSet
+Validated: 1
+EndChar
