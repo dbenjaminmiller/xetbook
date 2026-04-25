@@ -39,4 +39,5 @@ SplineSet
  714 678 720 680 724 680 c 0
  729 680 735 677 734 674 c 0xd0
 EndSplineSet
+Kerns2: 86 -42 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -42 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -32 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 110 -32 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

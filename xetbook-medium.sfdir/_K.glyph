@@ -55,4 +55,5 @@ SplineSet
  717 24 718 1 698 -3 c 1
 EndSplineSet
 Validated: 33
+Kerns2: 90 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 100 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

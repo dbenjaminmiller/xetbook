@@ -25,5 +25,6 @@ SplineSet
  411 624 425 614 423 602 c 2
 EndSplineSet
 Validated: 33
+Kerns2: 41 -38 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 -54 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 0-1" seven.onum
 EndChar
