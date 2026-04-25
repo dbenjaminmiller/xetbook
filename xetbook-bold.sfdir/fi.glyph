@@ -53,5 +53,6 @@ SplineSet
  536 41 529 4 512 -4 c 1x37
 EndSplineSet
 Validated: 33
+Kerns2: 99 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" f i
 EndChar

@@ -37,4 +37,5 @@ SplineSet
  255 289 252 289 248 283 c 2
 EndSplineSet
 Validated: 33
+Kerns2: 34 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

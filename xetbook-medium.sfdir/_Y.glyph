@@ -41,4 +41,5 @@ SplineSet
  730 622 726 608 716 608 c 0
 EndSplineSet
 Validated: 33
+Kerns2: 86 -83 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -83 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -76 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -83 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 92 -83 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 98 -66 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 100 -86 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 101 -53 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 108 -57 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 110 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
